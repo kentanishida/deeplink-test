@@ -1,0 +1,2 @@
+preview:
+	open index.html
